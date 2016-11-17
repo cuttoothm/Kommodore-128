@@ -4,4 +4,4 @@ Some stupid ambitious C++ project with the aim of sort of recreating the commodo
 
 
 
-^ that
+For anyone wanting to pull please leave a request and why, as usual. Thanks
